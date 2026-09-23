@@ -121,8 +121,9 @@ function App() {
       <div className="image-caption">свадебный<br />образ</div>
 
       <div className="hero-copy">
-        <h1>Образ,<br />в котором<br /><em>ты остаёшься собой</em></h1>
+        <h1>Красота,<br />в которой<br /><em>ты узнаёшь себя</em></h1>
         <p>Макияж · причёски · свадебные образы</p>
+        <p className="education-note">Также — обучение макияжу</p>
       </div>
 
       <div className="hero-actions">
